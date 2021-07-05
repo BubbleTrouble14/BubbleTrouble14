@@ -6,7 +6,7 @@
 ## Donate
 @BubbleTrouble14 wallet addresses:
 ```
-XCH: xch13v9r3wkceh6h5juecgzcfyf5x6ll9p2ehh03m2z46qyrdutp258qy4zu42
+XCH: xch1ek6342kyg8lsxlr4mntwanmc9qa44h9tp5vndg36a6jak4xwlezqxjwapl
 DOGE: DRdkStn4bQtXUzk5s6K8JGs6REU3U7LwwJ
 ETH: 0x3C727882637972Ca6dbC13F287A98e8C6d60Bb10
 ADA: addr1q80lu5nmd7hngkpvhzjpl8fqgn7t3lyf9rdzg6gy7umqw4wllef8kma0x3vzew9yr7wjq38uhr7gj2x6y35sfaekqa2sw6xgwr

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">I love my programming as much as I like playing video games. I also like tinkering alot in my free time with microcontrollers and 3D printers.</h3>
+<h3 align="center">Interested in blockchain technolgy and mobile apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bubbletrouble14&label=Profile%20views&color=0e75b6&style=flat" alt="bubbletrouble14" /> </p>
 
